@@ -1,4 +1,3 @@
-#!/bin/bash
 # Java environment variation Settings
 # Describe the position: /etc/profile.d/java.sh 
 export JAVA_HOME=/usr/java/jdk1.8.0_321
